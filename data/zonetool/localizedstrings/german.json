@@ -5,6 +5,20 @@
     "MENU_NUMPLAYERS": "Spieler",
     "MENU_PING": "Ping",
     "MENU_QUIT_TO_DESKTOP": "Zum Desktop",
+
+    "LUA_MENU_TELEMENTRY": "TELEMETRIE",
+    "LUA_MENU_LATENCY": "LATENZ",
+    "LUA_MENU_LATENCY_DESC": "Zeigt die aktuelle Netzwerkverzögerung (Ping) zwischen deinem Gerät und dem Spielserver an.",
+    "LUA_MENU_FPS": "FPS",
+    "LUA_MENU_FPS_DESC": "Zeigt die aktuelle Bildrate (Frames per Second) deines Spiels für eine bessere Performance-Überwachung an.",
+    "LUA_MENU_STREAK_DESC": "Zeigt deine aktuell verfügbaren Abschussserien während des Spiels an.",
+    "PLATFORM_FOV_SCALE": "FOV",
+    "PLATFORM_FOV_SCALE_OPTION_SUB": "Ermöglicht die Feinjustierung des Sichtfelds (FOV) für eine optimale Übersicht im Spiel.",
+
+    "LUA_MENU_VOICE_CHAT": "VOICE CHAT",
+    "LUA_MENU_VOICE_CHAT_DESC": "Aktiviere oder deaktiviere die Sprachkommunikation mit Teamkameraden im Spiel.",
+    "LUA_MENU_MIC_REC_VOLUME": "Mikrofonaufnahme-Lautstärke",
+    "LUA_MENU_MIC_REC_VOLUME_DESC": "Stellt die Lautstärke deines Mikrofons für die Sprachübertragung im Spiel ein.",
     
     "LOCALE_ENGLISH": "Englisch",
     "LOCALE_ENGLISH_SAFE": "Englisch (Sicher)",
